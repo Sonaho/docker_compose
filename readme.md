@@ -1,7 +1,8 @@
 Create machine with docker.
 
-Data base: MariaDB 10.3.9
-Wordpress: latest
+MariaDB 10.3.9
+
+Wordpress:latest
 
 Download and install docker.
 https://docs.docker.com/get-docker/
