@@ -14,3 +14,7 @@ mkdir target
 docker-compose up
 
 At folder target have de code of Wordpress, happy work
+
+If you will work with env variables, you can read
+
+https://docs.docker.com/compose/environment-variables/
