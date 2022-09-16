@@ -15,6 +15,6 @@ docker-compose up
 
 At folder target have de code of Wordpress, happy work
 
-If you will work with env variables, you can read
+If you will work with env variables or work with environments, you need read that
 
 https://docs.docker.com/compose/environment-variables/
